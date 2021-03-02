@@ -17,8 +17,7 @@ function loadBooks(books) {
         
          document.getElementsByTagName("body")[0].appendChild(a);
          document.getElementsByTagName("body")[0].appendChild(c);
-        // document.createElement("p").appendChild(document.createTextNode(item.title));
-        // document.createElement("p").appendChild(document.createTextNode(item.author));
+    
 
     
       })
